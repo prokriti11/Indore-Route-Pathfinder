@@ -129,17 +129,3 @@ Uses **Dijkstra's Algorithm** to find:
 4. Push branch: `git push origin feature-name`
 5. Open Pull Request
 
----
-
-## 📬 Contact
-
-**Made by Harshit Singh**
-
-- 📧 Email: harshitsingh789123@gmail.com
-- 💻 GitHub: [harshitsingh4321](https://github.com/harshitsingh4321)
-
----
-
-## 📄 License
-
-MIT License - feel free to use this project!
