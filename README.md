@@ -34,7 +34,7 @@
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/harshitsingh4321/indore-route-planner.git
+git clone https://github.com/prokriti11/indore-route-planner.git
 cd indore-route-planner
 
 # Backend
@@ -126,4 +126,5 @@ Uses **Dijkstra's Algorithm** to find:
 3. Commit changes: `git commit -m 'Add feature'`
 4. Push branch: `git push origin feature-name`
 5. Open Pull Request
+
 
